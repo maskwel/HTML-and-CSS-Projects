@@ -1,0 +1,10 @@
+p {
+    color: blueviolet;
+    background-color: cadetblue;
+    font-size: medium;
+    text-align: center;
+}
+h3 {
+    color: blue;
+    text-shadow: 0 0 7px blueviolet;
+}
